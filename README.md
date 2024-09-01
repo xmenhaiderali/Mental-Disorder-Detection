@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-* [Technologies Used](#Python, Tensorflow, Neural Networks, Machine Learning)
+* [Technologies Used](#Python, Tensorflow, Pytorch, Neural Networks, Machine Learning)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
