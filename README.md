@@ -3,8 +3,9 @@
 > A binary and multiclass classification model using Traditonal Machine Learning and Deep Learning. 
 
 
-## Table of Contents
-* [Technologies Used](#Python, Tensorflow, Pytorch, Neural Networks, Machine Learning)
+## Technologies Specification
+* [Python Frameworks Used](#Python, Tensorflow<2.11, Pytorch, Neural Networks, Machine Learning)
+* [Hardware Specification](#NVIDIA GeForce RTX 3050 VRAM 6GB, Windows OS, cudatoolkit=11.2, cudnn=8.1.0)
 
 
 <!-- You can include any other section that is pertinent to your problem -->
